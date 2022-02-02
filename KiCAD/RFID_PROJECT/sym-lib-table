@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Gloria_Yip_RFID)(type Legacy)(uri ${KIPRJMOD}/Gloria_Yip_RFID.lib)(options "")(descr ""))
+  (lib (name rf_mini_circuits_scn-313+_power_splitter-combiner)(type Legacy)(uri ${KIPRJMOD}/rf_mini_circuits_scn-313+_power_splitter-combiner.lib)(options "")(descr ""))
+)

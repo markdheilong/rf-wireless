@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***,G***";"QAI_Logo_4_Silkscreen";2;"LOGO";;;
+2;"H8,H7,H6,H5,H4,H3,H2,H1";"MountingHole_4.3mm_M4_Pad_Via";8;"MountingHole";;;
+3;"U2";"RF_Mini_Circuits_SPHSA-152+Phase_Shifter";1;"RF_Mini_Circuits_SPHSA-152+_Phase_Shifter";;;
+4;"U1";"RF_Mini_Circuits_SCN-3-13+_Power_Splitter-Combiner";1;"RF_Mini_Circuits_SCN-313+_Power_Splitter-Combiner";;;
+5;"J1,J2,J3,J4,J5,J6,J7";"SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount";7;"Conn_Coaxial";;;
